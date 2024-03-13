@@ -1,0 +1,11 @@
+body{
+    background-image: url(../index.html/fondopagina.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: azure;
+    
+}
+.cuadro{
+    background-color: brown;
+}
